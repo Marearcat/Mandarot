@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Mandelbrot", "Mandelbrot\Mandelbrot.fsproj", "{FFE059CD-EBB1-46D8-A328-6EC73DCDE35D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mandarot", "Mandarot\Mandarot.csproj", "{C99C4737-8916-4867-B493-7741A5342E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFE059CD-EBB1-46D8-A328-6EC73DCDE35D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE059CD-EBB1-46D8-A328-6EC73DCDE35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE059CD-EBB1-46D8-A328-6EC73DCDE35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE059CD-EBB1-46D8-A328-6EC73DCDE35D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C99C4737-8916-4867-B493-7741A5342E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99C4737-8916-4867-B493-7741A5342E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99C4737-8916-4867-B493-7741A5342E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99C4737-8916-4867-B493-7741A5342E21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16385D84-6043-45AB-A5D9-7B2DA5A5C748}
+	EndGlobalSection
+EndGlobal
